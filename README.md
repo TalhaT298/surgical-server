@@ -1,6 +1,6 @@
 # Surgical Server
 
-SurgicalSavvy Server is a backend service built with Node.js, Express, and MongoDB. This project is designed to manage surgical services and orders, providing a RESTful API for interacting with the data.
+SurgicalSavvy Server is a robust backend service developed using Node.js, Express, and MongoDB, specifically designed to manage surgical services and orders. It provides a comprehensive RESTful API to facilitate efficient and secure interactions with the data, ensuring a seamless experience for users and administrators alike. The server supports a range of functionalities including service retrieval and management, order processing, and secure handling of environment variables. Additionally, the server is equipped with CORS support for cross-origin resource sharing and follows a modular design for enhanced scalability and maintainability.
 
 ## Features
 
